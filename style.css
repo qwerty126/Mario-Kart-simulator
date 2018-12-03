@@ -1,0 +1,32 @@
+html{
+    background-image: url(images/rainbow.jpg);
+}
+body{
+    text-align: center;
+}
+
+h1{
+color: white;
+ 
+}
+p{
+    color: white;
+   
+}
+
+ul{
+    color: white
+}
+.resimg{
+
+width: 40px;
+height: 40px;
+border: 1px solid black;
+}
+#results img{
+width: 41px;
+height: 41px;
+
+
+
+}
